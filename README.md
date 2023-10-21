@@ -20,6 +20,6 @@ Jupyter Notebook: You can install Jupyter Notebook using `pip` by running `pip i
 Python libraries: You will need several Python libraries, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn (for machine learning), and others. You can install them using `pip` or `conda`. 
 ## Usage
 1. Clone this using git:
-`git clone git@github.com:havo2001/Red-Wine-Classification.git`
+`git clone git@github.com:havo2001/Bayesian-Inference.git`
 2. Launch Jupyter Notebook by running:
 `jupyter notebook`
