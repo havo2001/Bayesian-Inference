@@ -11,15 +11,3 @@ This project focuses on Bayesian analysis using prior distributions in the conte
 * Maximum A Posteriori (MAP) Estimates: We obtain MAP estimates for the parameters. These estimates provide a point estimate that maximizes the posterior distribution and helps identify the most likely parameter values.
 
 * Comparison: Finally, we compare the results obtained through Bayesian analysis, including posterior intervals and MAP estimates, with maximum likelihood estimates and frequentist confidence intervals. This comparison highlights the differences and advantages of a Bayesian approach.
-## Prerequisites
-Before running the Jupyter Notebook in this repository, you'll need the following:
-
-Python: Make sure you have Python installed on your system.
-Jupyter Notebook: You can install Jupyter Notebook using `pip` by running `pip install notebook`.
-
-Python libraries: You will need several Python libraries, including NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn (for machine learning), and others. You can install them using `pip` or `conda`. 
-## Usage
-1. Clone this using git:
-`git clone git@github.com:havo2001/Bayesian-Inference.git`
-2. Launch Jupyter Notebook by running:
-`jupyter notebook`
